@@ -68,7 +68,7 @@
 <a title="This is my working tools." href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;
 <a title="This is my working tools." href="https://mdevanulhasan.blogspot.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>&nbsp;
 <a title="This is my working tools." href="https://mdevanulhasan.blogspot.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>&nbsp;
-<a title="This is my working tools." href="https://mdevanulhasan.blogspot.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>&nbsp;
+<!--<a title="This is my working tools." href="https://mdevanulhasan.blogspot.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>&nbsp;-->
 <a title="This is my working tools." href="https://mdevanulhasan.blogspot.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>&nbsp;
 <a title="This is my working tools." href="https://mdevanulhasan.blogspot.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
@@ -99,10 +99,11 @@
 </p>
 <h3 align="left">Get Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mdevanulhasan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Your Network Connection is slow. That's why Buymecoffee Button not appearing. Please reload this page." /></a></p>
-
+<!--
 <h3 align="left">Visitors Count:</h3>
 <br />
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/dc8a0aecfe4a4ea0d6a7e1a3c1ccabe0ae1901689d49ccf96bb640764eb4809a/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f2537426d646576616e756c686173616e2537442f636f756e742e737667"><img src="https://camo.githubusercontent.com/dc8a0aecfe4a4ea0d6a7e1a3c1ccabe0ae1901689d49ccf96bb640764eb4809a/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f2537426d646576616e756c686173616e2537442f636f756e742e737667" alt="VisitorCount" data-canonical-src="https://profile-counter.glitch.me/%7Bmdevanulhasan%7D/count.svg" style="max-width: 100%;"></a>
+-->
 <!--
 ![VisitorCount](https://profile-counter.glitch.me/{mdevanulhasan}/count.svg)
 -->
